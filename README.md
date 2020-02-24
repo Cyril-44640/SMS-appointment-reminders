@@ -1,4 +1,4 @@
-# SMS appointment reminders for Tasker with google calendar
+# "SMS appointment reminders" for Tasker with google calendar
 
 (Import by long-press on PROFILES-tab in Tasker.)
 
